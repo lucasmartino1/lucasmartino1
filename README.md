@@ -1,11 +1,7 @@
 <!--Banner-->
-<!--![lucasmartino1 Banner Image](./banner.png)-->
+![lucasmartino1 Banner Image](./banner.png)
 
-# Lucas Martino
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-[lucasmartino]-blue?logo=linkedin)](https://www.linkedin.com/in/lucasmartino)
-
-## 👋 Olá!
+## Sobre mim
 
 Sou engenheiro de dados com cerca de 3 anos de experiência na área de dados, apaixonado por transformar dados brutos em informações acionáveis e utilizáveis. Atualmente, atuo com foco em produtos de dados na nuvem (Google Cloud Platform), utilizando Dataform e BigQuery para desenvolvimento de pipelines eficientes e bem documentados.
 
