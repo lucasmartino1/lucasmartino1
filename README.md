@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou o Lucas! ##
+## 👋 Olá, ##
 
 Sou engenheiro de dados e entusiasta do mundo de dados, </br> estudo desde a construção de pipelines robustos a criação de IA! 😁
 
@@ -10,30 +10,24 @@ Sou engenheiro de dados e entusiasta do mundo de dados, </br> estudo desde a con
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasmartino1&label=Visualizações%20de%20perfil&color=73030D&style=for-the-badge&logo=star" alt="lucasmartino1" style="padding-right:20px;"/> </p> 
 
+## ⭐ Projetos Destacados
+
+- [Ingestão de CSV de vendas](https://github.com/lucasmartino1/load_csv_sales): Projeto de ingestão de um arquivo CSV de vendas, simulando uma tarefa comum em diversos ambientes empresariais.
+- [Data Warehouse empresarial](https://github.com/lucasmartino1/empresa_dw): Projeto de criação de um Data Warehouse a partir da conexão com um banco de dados relacional, simulando um cenário comum em diversas empresas.
+
 
 ## 🎖️ Skills
 
 Aqui estão algumas das linguagens de programação e tecnologias que estou utilizando:
 
 #### 🛠️ Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=python,docker,gcp,postgres,sqlite,git,github,linux)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=python,docker,gcp,postgres,linux)](https://skillicons.dev)<br><br>
 
 #### 💻 IDEs: 
-[![My Skills](https://skillicons.dev/icons?i=vscode,anaconda,pycharm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,anaconda)](https://skillicons.dev)
 
 #### 💿 OS:
-[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,debian)](https://skillicons.dev)<br><br>
-
-## ⭐ Projeto Destacado
-
-- [Ingestão de CSV de vendas](https://github.com/lucasmartino1/load_csv_sales): Projeto de ingestão de um arquivo CSV de vendas, simulando uma tarefa comum em diversos ambientes empresariais.
-
-## 📈 Estatísticas
-  <p align="left">
-    <a href="https://github.com/lucasmartino1">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasmartino1&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,73030D&title_color=ffffff&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged" alt="Estatísticas" />
-    </a>
-  </p>
+[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu)](https://skillicons.dev)<br><br>
 
 
 ## 📫 Contato
