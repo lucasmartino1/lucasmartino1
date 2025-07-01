@@ -14,6 +14,7 @@ Sou engenheiro de dados e entusiasta do mundo de dados, </br> estudo desde a con
 
 - [Ingestão de CSV de vendas](https://github.com/lucasmartino1/load_csv_sales): Projeto de ingestão de um arquivo CSV de vendas, simulando uma tarefa comum em diversos ambientes empresariais.
 - [Data Warehouse empresarial](https://github.com/lucasmartino1/empresa_dw): Projeto de criação de um Data Warehouse a partir da conexão com um banco de dados relacional, simulando um cenário comum em diversas empresas.
+- [Data Lake empresarial](https://github.com/lucasmartino1/financial_datalake): Projeto de desenvolvimento de um Data Lake como solução para armazenamento de dados semi-estruturados ou não estruturados a partir da conexão com uma API do mercado financeiro americano.
 
 
 ## 🎖️ Skills
@@ -21,10 +22,10 @@ Sou engenheiro de dados e entusiasta do mundo de dados, </br> estudo desde a con
 Aqui estão algumas das linguagens de programação e tecnologias que estou utilizando:
 
 #### 🛠️ Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=python,docker,gcp,postgres,linux)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=python,docker,gcp)](https://skillicons.dev)<br><br>
 
 #### 💻 IDEs: 
-[![My Skills](https://skillicons.dev/icons?i=vscode,anaconda)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
 #### 💿 OS:
 [![My Skills](https://skillicons.dev/icons?i=windows,ubuntu)](https://skillicons.dev)<br><br>
